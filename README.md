@@ -1,6 +1,6 @@
 - Hi, I’m @CamdenOrr
 - I'm a computer science student at the University of Arizona scheduled to graduate in May, 2026
-- I have experience in software developement and discrete mathematics
+- I have experience in software developement and web programming
 - Email: camdenorr04@arizona.edu 
 
 <!---
